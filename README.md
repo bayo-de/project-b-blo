@@ -11,7 +11,7 @@ an original composition, built in the open, from day one.
 ## The projects
 
 **[Lo Fi Biblo](lofi-biblo/)** — the main line. Warm, dreamy lofi hip hop,
-the V6 mix as its north star.
+the V6 mix as its base case. It only gets better from here.
 
 **[Nite Forest](nite-forest/)** — the Halloween project. Eight original
 compositions in darker tones, built in public through October 2026.
