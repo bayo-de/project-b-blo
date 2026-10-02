@@ -1,4 +1,4 @@
-# Night Forest
+# Nite Forest
 
 The Halloween project. Eight original compositions in darker tones,
 written through October 2026 and built in public, like everything B-Blo
