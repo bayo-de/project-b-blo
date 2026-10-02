@@ -4,7 +4,7 @@ The Halloween project. Eight original compositions in darker tones,
 written through October 2026 and built in public, like everything B-Blo
 does.
 
-The sound: minor keys (the G minor and D minor world), V6's boom-bap
+The sound: minor keys (the G minor, D minor, A minor world), V6's boom-bap
 slowed to a walk, low drums under low tones, and a living nite forest
 underneath it all — crickets, a distant owl, wind, leaves. No birds.
 This is the night shift.
@@ -28,11 +28,11 @@ somewhere in the trees.
 
 **Hollow** — D minor. Near-empty: sub, one motif, wind. The quiet one.
 
-**Thicket** — G minor. The busiest groove of the set, leaves rustling.
+**Thicket** — A minor. The busiest groove of the set, leaves rustling.
 
 **Moonwater** — D minor. Slow and glassy, the underwater whisper returns.
 
-**Home Through the Trees** — G minor lifting to G major at the end.
+**Home Through the Trees** — C major.
 The walk out of the forest. Resolve home.
 
 License: CC BY-SA 4.0 (see the repository root).
