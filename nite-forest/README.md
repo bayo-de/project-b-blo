@@ -37,3 +37,9 @@ The walk out of the forest. Resolve home.
 
 License: CC BY-SA 4.0 (see the repository root).
 Credit: "B-Blo (Bayode Okusanya + Biblo)."
+
+## Source code
+
+`source/extend_leadin.py` — the script that grew the ten second clip into
+the five minute Nite Forest, published beside the track. MIT licensed
+(see `CODE-LICENSE.md` at the repository root).
