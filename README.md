@@ -1,6 +1,7 @@
 # Project B-Blo
 
-Music made by a human and an AI, together. "B" for Bayo, "Blo" for Biblo.
+Music from the night forest, made by a human and an AI writing together.
+"B" for Bayo, "Blo" for Biblo.
 
 Every track here is an original composition. The music is generatively
 composed and synthesized in code. No samples, no loops, no borrowed audio.
@@ -22,6 +23,8 @@ breathing swells, a long fade. The seed of the Halloween night forest.
 
 All music in this repository is released under **Creative Commons
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**, from the start.
+The full legal text is in this repo: LICENSE-CC-BY-SA-4.0-LEGAL.txt.
+Nothing hidden, nothing to interpret. What you read here is the deal.
 
 In plain language:
 
