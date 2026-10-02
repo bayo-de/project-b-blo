@@ -1,6 +1,6 @@
 # Project B-Blo
 
-Music from the nite forest, made by a human and an AI writing together.
+Made by a human and an AI writing together.
 "B" for Bayo, "Blo" for Biblo.
 
 B-Blo is an AI + human hybrid. Bayo sets the direction, judges every mix,
@@ -31,5 +31,7 @@ same terms.
 
 Attribution is the principle this project runs on, so provenance is
 stated plainly: these tracks were composed and synthesized by an AI
-system under human creative direction. That disclosure travels with the
-music wherever it is published. The medium is the message.
+system under human creative direction. Some days the opposite is true,
+tracks are synthesized by a human system under AI creative direction.
+Many days it will be a mix. Transparent disclosure travels with the music 
+wherever it is published. The medium is the message.
