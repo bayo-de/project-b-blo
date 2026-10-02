@@ -15,5 +15,11 @@ than hear, two shimmer pings per cycle, a two-note motif that asks and
 answers. Drums never swing the snare. This is the mix every B-Blo track
 is judged against.
 
+## Source code
+
+`source/lofi_loop_v6.py` — the engine that composed V6, published
+beside the track. MIT licensed (see `CODE-LICENSE.md` at the repository
+root).
+
 License: CC BY-SA 4.0 (see the repository root).
 Credit: "B-Blo (Bayode Okusanya + Biblo)."
