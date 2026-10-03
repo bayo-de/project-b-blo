@@ -78,6 +78,12 @@ tells, the masters, a study, four voices, and one pair of ears.
 
 ## V7 tracks
 
+**Feel Study 01** — `tracks/v7-feel-study-01.mp3`
+
+The first feel demo. The ten human principles in sound, before the
+four melody voices were built and before anything was brightened.
+The before to the brightened after.
+
 **Feel Study 02, piano** — `tracks/v7-feel-study-02-piano.mp3`
 
 **Feel Study 02, harp** — `tracks/v7-feel-study-02-harp.mp3`
