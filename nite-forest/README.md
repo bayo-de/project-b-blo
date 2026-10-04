@@ -35,5 +35,11 @@ somewhere in the trees.
 **Home Through the Trees** — G minor lifting to G major at the end.
 The walk out of the forest. Resolve home.
 
+**Witching Hour** — E minor, 76 BPM, 432Hz. Ten versions in one day
+(Oct 4, 2026), driven by Bayo's ear: from felt-piano motif over night beds
+through jazz comping, Dilla discipline, legato, orchestral voicing, and a
+full tune audit. The session log (`tracks/witching-hour/SESSION-2026-10-04.md`)
+is the transparency record — every version, every note, every choice.
+
 License: CC BY-SA 4.0 (see the repository root).
 Credit: "B-Blo (Bayode Okusanya + Biblo)."
