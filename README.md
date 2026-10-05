@@ -1,6 +1,6 @@
 # Project B-Blo
 
-Made by a human and an AI writing together.
+Music from the nite forest, made by a human and an AI writing together.
 "B" for Bayo, "Blo" for Biblo.
 
 B-Blo is an AI + human hybrid. Bayo sets the direction, judges every mix,
@@ -11,7 +11,8 @@ an original composition, built in the open, from day one.
 ## The projects
 
 **[Lo Fi Biblo](lofi-biblo/)** — the main line. Warm, dreamy lofi hip hop,
-the V6 mix as its base case. It only gets better from here.
+the V6 mix as its north star, with the V7 feel study as the quality
+elevation: what we learned, in code and in sound.
 
 **[Nite Forest](nite-forest/)** — the Halloween project. Eight original
 compositions in darker tones, built in public through October 2026.
@@ -31,7 +32,5 @@ same terms.
 
 Attribution is the principle this project runs on, so provenance is
 stated plainly: these tracks were composed and synthesized by an AI
-system under human creative direction. Some days the opposite is true,
-tracks are synthesized by a human system under AI creative direction.
-Many days it will be a mix. Transparent disclosure travels with the music 
-wherever it is published. The medium is the message.
+system under human creative direction. That disclosure travels with the
+music wherever it is published. The medium is the message.
