@@ -35,6 +35,20 @@ somewhere in the trees.
 **Home Through the Trees** — C major.
 The walk out of the forest. Resolve home.
 
+**Witching Hour** — E minor, ~5:40. The statement piece.
+
+Piano deep in an orchestral room, rain on the leaves, a thirty second
+forest lead-in before the first note. Ten versions deep: every mix
+decision judged by ear, from the piano's tuning to the weight of the
+walking bass. Arrival, establishment, lift, valley, peak, resolution.
+The night at its most honest.
+
+## Build notes
+
+Built in public through October 2026, like everything B-Blo does. The
+process for every track: study the masters, build in code, judge by
+ear, refine, repeat. See `ENGINEERING.md` at the repository root.
+
 License: CC BY-SA 4.0 (see the repository root).
 Credit: "B-Blo (Bayode Okusanya + Biblo)."
 
