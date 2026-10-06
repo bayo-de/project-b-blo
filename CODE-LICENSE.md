@@ -1,5 +1,5 @@
 MIT License
-Applies to the engine software only. The music is under CC BY-SA 4.0 (see LICENSE-music-CC-BY-SA-4.0.md).
+Applies to the engine software only. The music is under CC BY-SA 4.0 (see LICENSE.md).
 
 Copyright (c) 2026 Bayode Okusanya / NPC Labs
 
