@@ -11,7 +11,7 @@ an original composition, built in the open, from day one.
 ## The projects
 
 **[Lo Fi Biblo](lofi-biblo/)** — the main line. Warm, dreamy lofi hip hop,
-the V6 mix as its north star, with the V7 feel study as the quality
+the V6 mix as its original north star, with the V7 feel study as the quality
 elevation. It only gets better from here.
 
 **[Nite Forest](nite-forest/)** — the Halloween project. Eight original
