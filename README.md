@@ -37,8 +37,7 @@ Tracklist, in order:
 7. Witching Hour
 8. The Harrowing
 
-The sessions behind the album are written up in the article "Project
-B-Blo: An Original SI-Native Composition."
+The sessions behind the album are written up in the article ["Project B-Blo: An Original SI-Native Composition"](https://paragraph.com/@npcstore/project-b-blo-an-original-si-native-composition).
 
 ## License: open from day one
 
