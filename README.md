@@ -17,6 +17,29 @@ elevation. It only gets better from here.
 **[Nite Forest](nite-forest/)** — the Halloween project. Eight original
 compositions in darker tones, built in public through October 2026.
 
+## Nite Forest: released
+
+The album is out. **Nite Forest** by Biblo, a B-Blo project (Bayode
+Okusanya + Biblo). Eight tracks, 39:42, released October 31, 2026.
+
+- The full album on YouTube: [Nite Forest: The Full Album · Biblo](https://www.youtube.com/watch?v=An9ZoFlSFxE)
+- The playlist: [Nite Forest](https://www.youtube.com/playlist?list=PLEzGW6CD5GwA), with each track joining as its own video, one per evening, November 1 to 8.
+- The Lo Fi Biblo stream opens November 1, 2026 on the [Biblo channel](https://www.youtube.com/channel/UClT2J2muCaVJvmHme9xay4Q), starting with the album in full.
+
+Tracklist, in order:
+
+1. Nite Forest
+2. Hollow
+3. Moonwater
+4. Foxfire
+5. Thicket
+6. Canopy
+7. Witching Hour
+8. The Harrowing
+
+The sessions behind the album are written up in the article "Project
+B-Blo: An Original SI-Native Composition."
+
 ## License: open from day one
 
 All music in this repository is released under **Creative Commons
