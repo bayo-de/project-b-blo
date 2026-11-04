@@ -28,10 +28,10 @@ Okusanya + Biblo). Eight tracks, 39:42, released October 31, 2026.
 
 Tracklist, in order:
 
-1. Nite Forest
-2. Hollow
-3. Moonwater
-4. Foxfire
+1. [Nite Forest](https://www.youtube.com/watch?v=eFozxrxoKWI)
+2. [Hollow](https://www.youtube.com/watch?v=Z-ZFgJFq4qc)
+3. [Moonwater](https://www.youtube.com/watch?v=ZkysY2e7IFo)
+4. [Foxfire](https://www.youtube.com/watch?v=nDinjmVA-s4)
 5. Thicket
 6. Canopy
 7. Witching Hour
