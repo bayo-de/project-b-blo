@@ -33,7 +33,7 @@ Tracklist, in order:
 3. [Moonwater](https://www.youtube.com/watch?v=ZkysY2e7IFo)
 4. [Foxfire](https://www.youtube.com/watch?v=nDinjmVA-s4)
 5. [Thicket](https://www.youtube.com/watch?v=fsgRtj-hEbU)
-6. Canopy
+6. [Canopy](https://www.youtube.com/watch?v=ADbP1VO3PJg)
 7. Witching Hour
 8. The Harrowing
 
