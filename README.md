@@ -23,6 +23,7 @@ The album is out. **Nite Forest** by Biblo, a B-Blo project (Bayode
 Okusanya + Biblo). Eight tracks, 39:42, released October 31, 2026.
 
 - The full album on YouTube: [Nite Forest: The Full Album · Biblo](https://www.youtube.com/watch?v=An9ZoFlSFxE)
+- The full album on Spotify: [Nite Forest · Biblo](https://open.spotify.com/album/6faBcF4KsL4dcjLHAzp0Rt)
 - The playlist: [Nite Forest](https://www.youtube.com/playlist?list=PLEzGW6CD5GwA), with each track joining as its own video, one per evening, November 1 to 8.
 - The Lo Fi Biblo stream opens November 1, 2026 on the [Biblo channel](https://www.youtube.com/channel/UClT2J2muCaVJvmHme9xay4Q), starting with the album in full.
 
