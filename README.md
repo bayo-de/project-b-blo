@@ -36,7 +36,7 @@ Tracklist, in order:
 5. [Thicket](https://www.youtube.com/watch?v=fsgRtj-hEbU)
 6. [Canopy](https://www.youtube.com/watch?v=ADbP1VO3PJg)
 7. [Witching Hour](https://www.youtube.com/watch?v=Y4_UNQJW8vE)
-8. The Harrowing
+8. [The Harrowing](https://www.youtube.com/watch?v=eMgeQmN35JE)
 
 The sessions behind the album are written up in the article ["Project B-Blo: An Original SI-Native Composition"](https://paragraph.com/@npcstore/project-b-blo-an-original-si-native-composition).
 
